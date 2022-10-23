@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dagistankaradeniz
-- 👀 I’m interested in Java, Spring FW, Microservices and AWS / Cloud, Kafka and Spark as well as Python, Flask / FastAPI, Scikit Learn and Keras
-- 🌱 I’m currently learning Machine Learning and Data Science 👓
+- 👀 I’m interested in Java, Spring FW, Microservices, Kubernetes, Serverless, AWS / Cloud, Kafka and Spark as well as Python, Flask / FastAPI and Scikit Learn
+- 🌱 I’m currently learning Machine Learning and Data Science 👓 
 
 
 <!---

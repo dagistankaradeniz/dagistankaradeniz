@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dagistankaradeniz
-- 👀 I’m interested in Java, Spring FW, Microservices, Kubernetes, Serverless, AWS / Cloud, Kafka and Spark as well as Python, Flask / FastAPI and Scikit Learn
-- 🌱 I’m currently learning and applying Machine Learning and Data Science 👓 
+- 👶 Grew in Diyarbakir-TR, 🎓 educated in Istanbul-TR and 🏡 living in London-UK.
+- 👀 I’m using Java, Spring FW, Microservices, Kubernetes, AWS, Terraform, Apache Kafka and Apache Spark as well as Python, Flask, FastAPI and Scikit Learn.
+- 🌱 I’m currently self-learning and experimenting LLMs (specifically Local LLMs), ML and a bit of Data Science technics 👓
 
 
 <!---

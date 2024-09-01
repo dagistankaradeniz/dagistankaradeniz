@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dagistankaradeniz
-- 👶 Grew in Diyarbakir-TR, 🎓 educated in Istanbul-TR and 🏡 living in London-UK.
 - 👀 I’m using Java, Spring FW, Microservices, Kubernetes, AWS, Terraform, Apache Kafka and Apache Spark as well as Python, Flask, FastAPI and Scikit Learn.
 - 🌱 I’m currently self-learning and experimenting LLMs (specifically Local LLMs), ML and a bit of Data Science technics 👓
 
